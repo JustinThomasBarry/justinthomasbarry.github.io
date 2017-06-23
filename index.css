@@ -63,7 +63,7 @@ li {
   width: 33.33%;
   height: 600px;
   position: absolute;
-  top: 20%;
+  top: 100px;
   left: 0%;
   width: 33.33%;
 }
@@ -71,7 +71,7 @@ li {
   width: 33.33%;
   height: 600px;
   position: absolute;
-  top: 20%;
+  top: 100px;
   left: 33.33%;
   width: 33.3%;
 }
@@ -79,7 +79,7 @@ li {
   width: 33.33%;
   height: 600px;
   position: absolute;
-  top: 20%;
+  top: 100px;
   left: 66.66%;
   width: 33.33%;
 }
