@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="57 0 44 46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(55,-1)" fill="#f4f6f8" stroke="#0f2d59" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m7.75 36.5c-1.25 0-2 0.3-2.5 1.5l-2.5 6c-0.85 2 0.25 2.5 1.25 2.5h40c1 0 2.1-0.5 1.25-2.5l-2.5-6c-0.5-1.2-1.25-1.5-2.5-1.5z"/>
+  <path d="m14.5 29.5-1 3c-0.5 1.5 0 2 1.5 2h18c1.5 0 2-0.5 1.5-2l-1-3z"/>
+  <path d="m8 38.5-2 6h36l-2-6z"/>
+  <path d="m37.5 38.5v6m-3-6v6m-3-6v6m-3-6v3m-3-3v3m-3-3v3m-3-3v3m-3-3v3m-3-3v6m-3-6v6m-3.5-3h34"/>
+  <rect x="19.5" y="28.5" width="9" height="4"/>
+  <rect x="4.5" y="1.5" width="39" height="29" rx="2" ry="2"/>
+  <rect x="7.5" y="4.5" width="33" height="22" rx="1" ry="1"/>
+ </g>
+</svg>
